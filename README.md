@@ -24,26 +24,28 @@ Our main goal is to solve this real life problem more functionally.
 [![tournament-initial.png](https://i.postimg.cc/ZKhbSDmX/tournament-initial.png)](https://postimg.cc/XXQSKLpg)  
 
 
-** Options Tab**  
+**Options Tab**  
 [![tournament-options.png](https://i.postimg.cc/RZSv36NR/tournament-options.png)](https://postimg.cc/BXVrkv5L)  
 
 
-** Manage teams tab **  
+**Manage teams tab**  
 [![Manage-teams.png](https://i.postimg.cc/TYqRYqY1/Manage-teams.png)](https://postimg.cc/8jc8Zvvg)  
 
 
-** Standing Table **  
+**Standing Table**  
 [![standing-table.png](https://i.postimg.cc/90Hhcz6y/standing-table.png)](https://postimg.cc/LYD7T46s)  
 
 
-** Team Info **  
+**Team Info**  
 [![team-info.png](https://i.postimg.cc/bJtPX1Bz/team-info.png)](https://postimg.cc/jwtmPnT9)  
 
 
-** Fixture **
+**Fixture**
 [![fixtures.png](https://i.postimg.cc/tR6q8GKh/fixtures.png)](https://postimg.cc/QVXZWwxt)  
 
 
 >Our main motive for creating, developing and building this project is to make  
 the work easy for managing teams of a tournament  
+
+
 My team members are: [Md-Iftekhar-Hossain-Tushar](https://github.com/md-iftekhar-hossain-tushar)  and [Azizur Rahman Maruf](www.github.com)
